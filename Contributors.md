@@ -4,6 +4,7 @@
 - [Kaushik Chatterjee](https://github.com/kchatr)
 - [Priyanshu Jain](https://github.com/priyanshuwustl)
 - [Ipshita Diwan](https://github.com/thecatthatmeowed)
+- [Oscar Valdivia](https://github.com/Oscar1996)
 - Bernard Lucas https://github.com/balucas
 - [Biswas Nandamuri] (https://github.com/Biswas-N)
 - Jape Seifu https://github.com/jseifu
